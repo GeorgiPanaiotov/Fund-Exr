@@ -1,0 +1,12 @@
+C:\Users\ThinkPad\source\repos\Homework\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.exe
+C:\Users\ThinkPad\source\repos\Homework\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.deps.json
+C:\Users\ThinkPad\source\repos\Homework\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\Homework\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\Homework\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.dll
+C:\Users\ThinkPad\source\repos\Homework\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.pdb
+C:\Users\ThinkPad\source\repos\Homework\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\Homework\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\Homework\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\Homework\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.dll
+C:\Users\ThinkPad\source\repos\Homework\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.pdb
+C:\Users\ThinkPad\source\repos\Homework\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.genruntimeconfig.cache

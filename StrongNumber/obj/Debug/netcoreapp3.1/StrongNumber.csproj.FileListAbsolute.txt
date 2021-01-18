@@ -1,0 +1,12 @@
+C:\Users\ThinkPad\source\repos\Homework\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.exe
+C:\Users\ThinkPad\source\repos\Homework\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.deps.json
+C:\Users\ThinkPad\source\repos\Homework\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\Homework\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\Homework\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.dll
+C:\Users\ThinkPad\source\repos\Homework\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.pdb
+C:\Users\ThinkPad\source\repos\Homework\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\Homework\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\Homework\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\Homework\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.dll
+C:\Users\ThinkPad\source\repos\Homework\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.pdb
+C:\Users\ThinkPad\source\repos\Homework\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.genruntimeconfig.cache

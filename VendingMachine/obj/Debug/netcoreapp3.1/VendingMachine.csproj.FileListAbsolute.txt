@@ -1,0 +1,12 @@
+C:\Users\ThinkPad\source\repos\Homework\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.exe
+C:\Users\ThinkPad\source\repos\Homework\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.deps.json
+C:\Users\ThinkPad\source\repos\Homework\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\Homework\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\Homework\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.dll
+C:\Users\ThinkPad\source\repos\Homework\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.pdb
+C:\Users\ThinkPad\source\repos\Homework\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\Homework\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\Homework\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\Homework\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.dll
+C:\Users\ThinkPad\source\repos\Homework\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.pdb
+C:\Users\ThinkPad\source\repos\Homework\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.genruntimeconfig.cache
