@@ -1,0 +1,12 @@
+C:\Users\ThinkPad\source\repos\HW3\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.exe
+C:\Users\ThinkPad\source\repos\HW3\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.deps.json
+C:\Users\ThinkPad\source\repos\HW3\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\HW3\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\HW3\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.dll
+C:\Users\ThinkPad\source\repos\HW3\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.pdb
+C:\Users\ThinkPad\source\repos\HW3\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\HW3\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\HW3\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\HW3\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.dll
+C:\Users\ThinkPad\source\repos\HW3\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.pdb
+C:\Users\ThinkPad\source\repos\HW3\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.genruntimeconfig.cache

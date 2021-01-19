@@ -1,0 +1,12 @@
+C:\Users\ThinkPad\source\repos\HW3\EqualElements\bin\Debug\netcoreapp3.1\EqualElements.exe
+C:\Users\ThinkPad\source\repos\HW3\EqualElements\bin\Debug\netcoreapp3.1\EqualElements.deps.json
+C:\Users\ThinkPad\source\repos\HW3\EqualElements\bin\Debug\netcoreapp3.1\EqualElements.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\HW3\EqualElements\bin\Debug\netcoreapp3.1\EqualElements.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\HW3\EqualElements\bin\Debug\netcoreapp3.1\EqualElements.dll
+C:\Users\ThinkPad\source\repos\HW3\EqualElements\bin\Debug\netcoreapp3.1\EqualElements.pdb
+C:\Users\ThinkPad\source\repos\HW3\EqualElements\obj\Debug\netcoreapp3.1\EqualElements.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\HW3\EqualElements\obj\Debug\netcoreapp3.1\EqualElements.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\HW3\EqualElements\obj\Debug\netcoreapp3.1\EqualElements.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\HW3\EqualElements\obj\Debug\netcoreapp3.1\EqualElements.dll
+C:\Users\ThinkPad\source\repos\HW3\EqualElements\obj\Debug\netcoreapp3.1\EqualElements.pdb
+C:\Users\ThinkPad\source\repos\HW3\EqualElements\obj\Debug\netcoreapp3.1\EqualElements.genruntimeconfig.cache

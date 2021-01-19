@@ -1,0 +1,12 @@
+C:\Users\ThinkPad\source\repos\HW2\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.exe
+C:\Users\ThinkPad\source\repos\HW2\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.deps.json
+C:\Users\ThinkPad\source\repos\HW2\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\HW2\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\HW2\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.dll
+C:\Users\ThinkPad\source\repos\HW2\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.pdb
+C:\Users\ThinkPad\source\repos\HW2\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\HW2\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\HW2\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\HW2\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.dll
+C:\Users\ThinkPad\source\repos\HW2\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.pdb
+C:\Users\ThinkPad\source\repos\HW2\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.genruntimeconfig.cache

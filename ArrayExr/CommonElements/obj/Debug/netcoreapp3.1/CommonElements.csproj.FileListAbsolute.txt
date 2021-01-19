@@ -1,0 +1,13 @@
+C:\Users\ThinkPad\source\repos\HW3\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.exe
+C:\Users\ThinkPad\source\repos\HW3\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.deps.json
+C:\Users\ThinkPad\source\repos\HW3\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\HW3\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\HW3\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.dll
+C:\Users\ThinkPad\source\repos\HW3\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.pdb
+C:\Users\ThinkPad\source\repos\HW3\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.csprojAssemblyReference.cache
+C:\Users\ThinkPad\source\repos\HW3\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\HW3\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\HW3\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\HW3\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.dll
+C:\Users\ThinkPad\source\repos\HW3\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.pdb
+C:\Users\ThinkPad\source\repos\HW3\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.genruntimeconfig.cache
