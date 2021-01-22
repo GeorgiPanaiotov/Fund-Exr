@@ -1,0 +1,13 @@
+C:\Users\ThinkPad\source\repos\HW6\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.exe
+C:\Users\ThinkPad\source\repos\HW6\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.deps.json
+C:\Users\ThinkPad\source\repos\HW6\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\HW6\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\HW6\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.dll
+C:\Users\ThinkPad\source\repos\HW6\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.pdb
+C:\Users\ThinkPad\source\repos\HW6\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.csprojAssemblyReference.cache
+C:\Users\ThinkPad\source\repos\HW6\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\HW6\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\HW6\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\HW6\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.dll
+C:\Users\ThinkPad\source\repos\HW6\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.pdb
+C:\Users\ThinkPad\source\repos\HW6\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.genruntimeconfig.cache

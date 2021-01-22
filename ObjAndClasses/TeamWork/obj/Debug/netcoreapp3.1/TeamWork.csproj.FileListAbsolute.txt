@@ -1,0 +1,13 @@
+C:\Users\ThinkPad\source\repos\HW5\TeamWork\bin\Debug\netcoreapp3.1\TeamWork.exe
+C:\Users\ThinkPad\source\repos\HW5\TeamWork\bin\Debug\netcoreapp3.1\TeamWork.deps.json
+C:\Users\ThinkPad\source\repos\HW5\TeamWork\bin\Debug\netcoreapp3.1\TeamWork.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\HW5\TeamWork\bin\Debug\netcoreapp3.1\TeamWork.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\HW5\TeamWork\bin\Debug\netcoreapp3.1\TeamWork.dll
+C:\Users\ThinkPad\source\repos\HW5\TeamWork\bin\Debug\netcoreapp3.1\TeamWork.pdb
+C:\Users\ThinkPad\source\repos\HW5\TeamWork\obj\Debug\netcoreapp3.1\TeamWork.csprojAssemblyReference.cache
+C:\Users\ThinkPad\source\repos\HW5\TeamWork\obj\Debug\netcoreapp3.1\TeamWork.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\HW5\TeamWork\obj\Debug\netcoreapp3.1\TeamWork.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\HW5\TeamWork\obj\Debug\netcoreapp3.1\TeamWork.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\HW5\TeamWork\obj\Debug\netcoreapp3.1\TeamWork.dll
+C:\Users\ThinkPad\source\repos\HW5\TeamWork\obj\Debug\netcoreapp3.1\TeamWork.pdb
+C:\Users\ThinkPad\source\repos\HW5\TeamWork\obj\Debug\netcoreapp3.1\TeamWork.genruntimeconfig.cache

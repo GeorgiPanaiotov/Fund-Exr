@@ -1,0 +1,12 @@
+C:\Users\ThinkPad\source\repos\HW6\BombNumbers\bin\Debug\netcoreapp3.1\BombNumbers.exe
+C:\Users\ThinkPad\source\repos\HW6\BombNumbers\bin\Debug\netcoreapp3.1\BombNumbers.deps.json
+C:\Users\ThinkPad\source\repos\HW6\BombNumbers\bin\Debug\netcoreapp3.1\BombNumbers.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\HW6\BombNumbers\bin\Debug\netcoreapp3.1\BombNumbers.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\HW6\BombNumbers\bin\Debug\netcoreapp3.1\BombNumbers.dll
+C:\Users\ThinkPad\source\repos\HW6\BombNumbers\bin\Debug\netcoreapp3.1\BombNumbers.pdb
+C:\Users\ThinkPad\source\repos\HW6\BombNumbers\obj\Debug\netcoreapp3.1\BombNumbers.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\HW6\BombNumbers\obj\Debug\netcoreapp3.1\BombNumbers.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\HW6\BombNumbers\obj\Debug\netcoreapp3.1\BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\HW6\BombNumbers\obj\Debug\netcoreapp3.1\BombNumbers.dll
+C:\Users\ThinkPad\source\repos\HW6\BombNumbers\obj\Debug\netcoreapp3.1\BombNumbers.pdb
+C:\Users\ThinkPad\source\repos\HW6\BombNumbers\obj\Debug\netcoreapp3.1\BombNumbers.genruntimeconfig.cache

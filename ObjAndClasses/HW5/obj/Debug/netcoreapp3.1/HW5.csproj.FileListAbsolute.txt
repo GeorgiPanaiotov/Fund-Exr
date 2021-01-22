@@ -1,0 +1,13 @@
+C:\Users\ThinkPad\source\repos\HW5\HW5\bin\Debug\netcoreapp3.1\HW5.exe
+C:\Users\ThinkPad\source\repos\HW5\HW5\bin\Debug\netcoreapp3.1\HW5.deps.json
+C:\Users\ThinkPad\source\repos\HW5\HW5\bin\Debug\netcoreapp3.1\HW5.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\HW5\HW5\bin\Debug\netcoreapp3.1\HW5.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\HW5\HW5\bin\Debug\netcoreapp3.1\HW5.dll
+C:\Users\ThinkPad\source\repos\HW5\HW5\bin\Debug\netcoreapp3.1\HW5.pdb
+C:\Users\ThinkPad\source\repos\HW5\HW5\obj\Debug\netcoreapp3.1\HW5.csprojAssemblyReference.cache
+C:\Users\ThinkPad\source\repos\HW5\HW5\obj\Debug\netcoreapp3.1\HW5.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\HW5\HW5\obj\Debug\netcoreapp3.1\HW5.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\HW5\HW5\obj\Debug\netcoreapp3.1\HW5.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\HW5\HW5\obj\Debug\netcoreapp3.1\HW5.dll
+C:\Users\ThinkPad\source\repos\HW5\HW5\obj\Debug\netcoreapp3.1\HW5.pdb
+C:\Users\ThinkPad\source\repos\HW5\HW5\obj\Debug\netcoreapp3.1\HW5.genruntimeconfig.cache

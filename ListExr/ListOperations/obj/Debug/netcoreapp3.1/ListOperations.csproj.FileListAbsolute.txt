@@ -1,0 +1,13 @@
+C:\Users\ThinkPad\source\repos\HW6\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.exe
+C:\Users\ThinkPad\source\repos\HW6\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.deps.json
+C:\Users\ThinkPad\source\repos\HW6\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\HW6\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\HW6\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.dll
+C:\Users\ThinkPad\source\repos\HW6\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.pdb
+C:\Users\ThinkPad\source\repos\HW6\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.csprojAssemblyReference.cache
+C:\Users\ThinkPad\source\repos\HW6\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\HW6\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\HW6\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\HW6\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.dll
+C:\Users\ThinkPad\source\repos\HW6\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.pdb
+C:\Users\ThinkPad\source\repos\HW6\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.genruntimeconfig.cache

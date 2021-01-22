@@ -1,0 +1,13 @@
+C:\Users\ThinkPad\source\repos\HW6\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.exe
+C:\Users\ThinkPad\source\repos\HW6\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.deps.json
+C:\Users\ThinkPad\source\repos\HW6\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\HW6\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\HW6\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.dll
+C:\Users\ThinkPad\source\repos\HW6\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.pdb
+C:\Users\ThinkPad\source\repos\HW6\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.csprojAssemblyReference.cache
+C:\Users\ThinkPad\source\repos\HW6\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\HW6\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\HW6\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\HW6\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.dll
+C:\Users\ThinkPad\source\repos\HW6\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.pdb
+C:\Users\ThinkPad\source\repos\HW6\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.genruntimeconfig.cache
