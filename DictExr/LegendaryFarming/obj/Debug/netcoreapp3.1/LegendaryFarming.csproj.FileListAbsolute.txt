@@ -1,0 +1,13 @@
+C:\Users\ThinkPad\source\repos\HW7\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.exe
+C:\Users\ThinkPad\source\repos\HW7\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.deps.json
+C:\Users\ThinkPad\source\repos\HW7\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\HW7\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\HW7\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.dll
+C:\Users\ThinkPad\source\repos\HW7\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.pdb
+C:\Users\ThinkPad\source\repos\HW7\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.csprojAssemblyReference.cache
+C:\Users\ThinkPad\source\repos\HW7\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\HW7\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\HW7\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\HW7\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.dll
+C:\Users\ThinkPad\source\repos\HW7\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.pdb
+C:\Users\ThinkPad\source\repos\HW7\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.genruntimeconfig.cache
