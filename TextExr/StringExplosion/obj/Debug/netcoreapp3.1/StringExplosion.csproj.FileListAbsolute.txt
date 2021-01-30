@@ -1,0 +1,12 @@
+C:\Users\ThinkPad\source\repos\HW8\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.exe
+C:\Users\ThinkPad\source\repos\HW8\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.deps.json
+C:\Users\ThinkPad\source\repos\HW8\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\HW8\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\HW8\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.dll
+C:\Users\ThinkPad\source\repos\HW8\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.pdb
+C:\Users\ThinkPad\source\repos\HW8\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\HW8\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\HW8\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\HW8\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.dll
+C:\Users\ThinkPad\source\repos\HW8\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.pdb
+C:\Users\ThinkPad\source\repos\HW8\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.genruntimeconfig.cache

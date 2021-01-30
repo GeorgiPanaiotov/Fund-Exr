@@ -1,0 +1,13 @@
+C:\Users\ThinkPad\source\repos\HW8\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.exe
+C:\Users\ThinkPad\source\repos\HW8\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.deps.json
+C:\Users\ThinkPad\source\repos\HW8\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\HW8\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\HW8\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.dll
+C:\Users\ThinkPad\source\repos\HW8\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.pdb
+C:\Users\ThinkPad\source\repos\HW8\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.csprojAssemblyReference.cache
+C:\Users\ThinkPad\source\repos\HW8\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\HW8\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\HW8\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\HW8\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.dll
+C:\Users\ThinkPad\source\repos\HW8\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.pdb
+C:\Users\ThinkPad\source\repos\HW8\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.genruntimeconfig.cache
